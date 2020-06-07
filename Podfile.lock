@@ -1,0 +1,88 @@
+PODS:
+  - Alamofire (4.8.0)
+  - DITranquillity (3.7.1):
+    - SwiftLazy
+  - IGListKit (3.4.0):
+    - IGListKit/Default (= 3.4.0)
+  - IGListKit/Default (3.4.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.4.0)
+  - IQKeyboardManagerSwift (6.2.0)
+  - KeychainAccess (3.1.2)
+  - Kingfisher (5.5.0)
+  - Localize-Swift (2.0.0)
+  - PinLayout (1.8.6)
+  - Realm (3.21.0):
+    - Realm/Headers (= 3.21.0)
+  - Realm/Headers (3.21.0)
+  - RealmSwift (3.21.0):
+    - Realm (= 3.21.0)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - SwiftFormat/CLI (0.43.0)
+  - SwiftGen (6.0.0)
+  - SwiftLazy (1.1.7)
+  - SwiftLint (0.38.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.0)
+  - DITranquillity (= 3.7.1)
+  - IGListKit (= 3.4.0)
+  - IQKeyboardManagerSwift (= 6.2.0)
+  - KeychainAccess (= 3.1.2)
+  - Kingfisher (= 5.5.0)
+  - Localize-Swift (= 2.0.0)
+  - PinLayout (= 1.8.6)
+  - RealmSwift (= 3.21.0)
+  - RxCocoa (= 5.0.0)
+  - RxSwift (= 5.0.0)
+  - SwiftFormat/CLI (= 0.43.0)
+  - SwiftGen (= 6.0)
+  - SwiftLint (= 0.38.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DITranquillity
+    - IGListKit
+    - IQKeyboardManagerSwift
+    - KeychainAccess
+    - Kingfisher
+    - Localize-Swift
+    - PinLayout
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftFormat
+    - SwiftGen
+    - SwiftLazy
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  DITranquillity: edf53a8589bfc09233813b2be7bbe7bd0b166284
+  IGListKit: 7a5d788e9fb746bcd402baa8e8b24bc3bd2a5a07
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  Kingfisher: 6fe5e67a90fd335e49b0f5c075ff55ac5ebedd94
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  PinLayout: fe2a2432d6982588e208572005c941aeeae417ab
+  Realm: 38e9dcb19104b58407167d99f70d4995f7c16023
+  RealmSwift: 3183cc1ad48378fbcd634311b22c0e6c44021152
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SwiftFormat: 2f5705a6e9f4791004478d939722b6803b77fc5a
+  SwiftGen: cd0bb0c9838c3fc90b78d35b19f492711b19eb55
+  SwiftLazy: dcb1edc6c2b633ba2e68f28554d9dd6d1c0bfd13
+  SwiftLint: 4105f061f9812b214568b736dab580ab2c73a582
+
+PODFILE CHECKSUM: 3a7a418db5693600f3aa139797c0eb3bfcf89c51
+
+COCOAPODS: 1.8.4
